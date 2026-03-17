@@ -14,8 +14,12 @@ The math tool of the former is PDE. by contrast,the latter is ODE.So my level ma
 For example:
         $$M \ddot{X}+K X=P(t)$$
 This is a basic example.It is a example of **multi-degree-of-freedom-system**
-<!---NOW is 11:50 I will go to have lunch.So this is the start.
-Next action maybe Next Monday.Because I want to learn some simulation about ansys or some operation about Matlab
-so see next Time >
+<!--NOW is 11:50 I will go to have lunch.So this is the start.Next action maybe Next Monday.Because I want to learn some simulation about ansys or some operation about Matlab so see next Time -->
+
+## -1.0.2 Mar 12th 2026 | Thu | sunny | just peaceful and some happy(because have solved a issue that display myself)
+    1.So today .If I take up my plan ,I would be washed my cloths. But you kown the afternoon is a good time to create
+so  I plan to do some exercise about Matlab.(Because I should do thin yesterday afternoon).I will try to plot some beautiful 
+graph or figure.
+
 
 
