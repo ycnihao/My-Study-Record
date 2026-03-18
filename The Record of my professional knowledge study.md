@@ -23,5 +23,15 @@ so see next Time -->
 <!--Now I try to make some video about the SDOF,I originally think MATLAB is enough,but later I want to make video by using the manim in Python.Duo to the lack of Time (because it is time to have lunch and afternoon I plan to learn some knowledge about DeepLearing,So up to now ,I just complete the task to finish the matlab script.Next step we will use manim to make it live! and try to conduct another experiments(for example Different Mass but same stiffness.and after that we can conduct and introduce the DAMPING!!!,But now I want to have lunch .-->
 <!--                         SEE YOU NEXT TIME                      -->
 
+## 1.0.3 Mar 18th 2026 | Wen | cloudy and cold | a bit of tedious(You know The environment is verbose) 
+    - Today we plan to do a animation about our SDOF. But always to my uneasy is that the Latex(Because I have experience many errors about it ).For example in the old days, I use the MACOS,and always the LATEX(especially,the code generation,Because it always use default fonts in windows.). But now I try to display the formula use the Latex. You know It also occur the errors. besides that ,I 
+    always use the CHINESE Character. It should use the ctex and run by xelatex.But the defalut Compiler always is pdflatex. It is terrible!
+
+    -Today I also  understand The WSL2 and The Windows. Before I don't know the difference between WSL and windows.NOW I know 
+    The WSL is the remote version of Windows.A basic example is that I once create virtual environment in Windows.And I try to run on the ubuntu in wsl. It failed. I also know the visual code different versions. I seem to confuse the usage in two different context. 
+
+    But now it make me frustrated. I don't want to do this today.Maybe i should ignore the creation of video and just to know the matlab to save time and probably start it in someday. That day I am skilled for the code and latex. So sometimes,give up is also a choice. especially, this project can decide by myself. It is freedom and also the source of my happiness.
+
+<!--                So according to the reality, I will learn matlab in next Monday see you next time!!!!!!                 -- >
 
 
