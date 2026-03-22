@@ -34,4 +34,11 @@ so see next Time -->
 
 <!--                So according to the reality, I will learn matlab in next Monday see you next time!!!!!!                 -- >
 
+<!--But Now It is Sunday, I also decide to upgrade the content and we just to note some knowledge                            -->
+    let us continue our SDOF,so according to the process the learning, I have know the common category of vibration .So you konw the
+    ** Line Vibration, For example the mass and spring system ** .besides that we can know the ** Angular vibration ,For example the impeller torsional vibration** and the most famous **oscillation**。I remember the exam for the graduate student still have the question.(absolutely NOT the NOW University of mine🤣)
 
+    So I have learn so much about this mainly want to use it in the engineering. I have understand the fundmental concept and the content.I have changed .I don't want to suck any knowledge. If i want to use some knowledge. Just to search the book. The past education always let me remember.But I find that is terrible and some make it in vain. So that is all .SDOF just to know the differential equation of the mass and spring system. AND the most important thing is that you should understand and reconize the MASS PART and STIFFNESS PART. if someone give a different system, you never seen it, just to make a calculation that** omgea_0 = sqrt*(K/M) .The K infer the generalized mass and the M infer the generalized stiffness**
+
+
+<!--                  Next time I will learn the SDOF with Damping. This is very extensive in the world. See you next time    -->
